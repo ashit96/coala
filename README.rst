@@ -3,7 +3,7 @@
 coala: Linting and fixing code for all languages
 ------------------------------------------------
 
-**coala provides a unified command-line interface for linting and fixing all
+**coala provides a unified command-line interface for linting  and fixing all
 your code, regardless of the programming languages you use.**
 
 With coala, users can create
